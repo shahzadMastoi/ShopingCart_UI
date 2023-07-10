@@ -19,7 +19,7 @@ const Home = () => {
      {/* <Product /> */}
      <Products popularProducts={popularProducts}/>
      <Newsletter />
-     <Footer />
+     {/* <Footer /> */}
     </div>
   );
 };
